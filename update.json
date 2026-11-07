@@ -2,6 +2,6 @@
   "title": "墨匣 1.0.1 已发布",
   "versionCode": 228,
   "versionName": "1.0.1-debug",
-  "url": "http://ray.star-synaps.tech/down.php/请替换成新APK的下载地址.apk",
+  "url": "http://ray.star-synaps.tech/down.php/9457f748d0cd7883f653ada8b2209e97.apk?v=1794063367",
   "announcement": "1. 修复点击「安装」时应用闪退的问题（补充安装权限）。\n2. 更新检测按 ghfast、gh-proxy、ghproxy 的顺序检测，遇到新版本立即停止。\n3. 更新弹窗只能通过「跳过」关闭，跳过不会记住。\n4. 下载失败时在弹窗内直接提示，不再没有反应。\n5. 其他稳定性调整。"
 }
